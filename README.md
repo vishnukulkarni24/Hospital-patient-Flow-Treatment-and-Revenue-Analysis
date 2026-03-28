@@ -26,3 +26,7 @@ efficiency and patient care.
 - Power Query
 - DAX (Data Analysis Expressions)
 - Data Modeling (Star Schema)
+
+
+<img width="1428" height="852" alt="image" src="https://github.com/user-attachments/assets/8b05ead9-1af1-4489-8514-783771252f88" />
+
