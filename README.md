@@ -28,5 +28,6 @@ efficiency and patient care.
 - Data Modeling (Star Schema)
 
 
-<img width="1428" height="852" alt="image" src="https://github.com/user-attachments/assets/8b05ead9-1af1-4489-8514-783771252f88" />
 
+<img width="1313" height="732" alt="Screenshot 2026-03-28 151902" src="https://github.com/user-attachments/assets/ffb17903-9227-4c94-9c0a-b0582d708908" />
+<img width="1428" height="852" alt="image" src="https://github.com/user-attachments/assets/8b05ead9-1af1-4489-8514-783771252f88" />
